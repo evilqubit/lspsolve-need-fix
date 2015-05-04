@@ -1,0 +1,384 @@
+{
+    "Days": [
+               {
+            "Slots": [
+                {
+                    "NumberOfStudents": 1
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 3
+                },
+                {
+                    "NumberOfStudents": 1
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 5
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 1
+                },
+                {
+                    "NumberOfStudents": 7
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 3
+                },
+                {
+                    "NumberOfStudents": 1
+                },
+                {
+                    "NumberOfStudents": 5
+                },
+                {
+                    "NumberOfStudents": 4
+                },
+                {
+                    "NumberOfStudents": 8
+                },
+                {
+                    "NumberOfStudents": 6
+                },
+                {
+                    "NumberOfStudents": 3
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 1
+                },
+                {
+                    "NumberOfStudents": 4
+                },
+                {
+                    "NumberOfStudents": 5
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 9
+                }
+            ]
+        },
+            {
+            "Slots": [
+                {
+                    "NumberOfStudents": 1
+                },
+                {
+                    "NumberOfStudents": 18
+                },
+                {
+                    "NumberOfStudents": 20
+                },
+                {
+                    "NumberOfStudents": 24
+                },
+                {
+                    "NumberOfStudents": 32
+                },
+                {
+                    "NumberOfStudents": 38
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 39
+                },
+                {
+                    "NumberOfStudents": 35
+                },
+                {
+                    "NumberOfStudents": 35
+                },
+                {
+                    "NumberOfStudents": 30
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 27
+                },
+                {
+                    "NumberOfStudents": 25
+                },
+                {
+                    "NumberOfStudents": 23
+                },
+                {
+                    "NumberOfStudents": 22
+                },
+                {
+                    "NumberOfStudents": 20
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 10
+                },
+                {
+                    "NumberOfStudents": 9
+                }
+            ]
+        },
+        {
+            "Slots": [
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 2
+                },
+                {
+                    "NumberOfStudents": 24
+                },
+                {
+                    "NumberOfStudents": 32
+                },
+                {
+                    "NumberOfStudents": 38
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 39
+                },
+                {
+                    "NumberOfStudents": 35
+                },
+                {
+                    "NumberOfStudents": 35
+                },
+                {
+                    "NumberOfStudents": 30
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 27
+                },
+                {
+                    "NumberOfStudents": 25
+                },
+                {
+                    "NumberOfStudents": 23
+                },
+                {
+                    "NumberOfStudents": 22
+                },
+                {
+                    "NumberOfStudents": 20
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 10
+                },
+                {
+                    "NumberOfStudents": 9
+                }
+            ]
+        },
+        {
+            "Slots": [
+                {
+                    "NumberOfStudents": 15
+                },
+                {
+                    "NumberOfStudents": 18
+                },
+                {
+                    "NumberOfStudents": 20
+                },
+                {
+                    "NumberOfStudents": 24
+                },
+                {
+                    "NumberOfStudents": 32
+                },
+                {
+                    "NumberOfStudents": 38
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 40
+                },
+                {
+                    "NumberOfStudents": 39
+                },
+                {
+                    "NumberOfStudents": 35
+                },
+                {
+                    "NumberOfStudents": 35
+                },
+                {
+                    "NumberOfStudents": 30
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 27
+                },
+                {
+                    "NumberOfStudents": 25
+                },
+                {
+                    "NumberOfStudents": 23
+                },
+                {
+                    "NumberOfStudents": 22
+                },
+                {
+                    "NumberOfStudents": 20
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 10
+                },
+                {
+                    "NumberOfStudents": 9
+                }
+            ]
+        },
+        {
+            "Slots": [
+                 {
+                    "NumberOfStudents": 12
+                },
+                {
+                    "NumberOfStudents": 12
+                },
+                {
+                    "NumberOfStudents": 21
+                },
+                {
+                    "NumberOfStudents": 21
+                },
+                {
+                    "NumberOfStudents": 36
+                },
+                {
+                    "NumberOfStudents": 36
+                },
+                {
+                    "NumberOfStudents": 41
+                },
+                {
+                    "NumberOfStudents": 41
+                },
+                {
+                    "NumberOfStudents": 43
+                },
+                {
+                    "NumberOfStudents": 43
+                },
+                {
+                    "NumberOfStudents": 34
+                },
+                {
+                    "NumberOfStudents": 34
+                },
+                {
+                    "NumberOfStudents": 29
+                },
+                {
+                    "NumberOfStudents": 29
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 28
+                },
+                {
+                    "NumberOfStudents": 21
+                },
+                {
+                    "NumberOfStudents": 21
+                },
+                {
+                    "NumberOfStudents": 19
+                },
+                {
+                    "NumberOfStudents": 19
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 13
+                },
+                {
+                    "NumberOfStudents": 9
+                },
+                {
+                    "NumberOfStudents": 9
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+  "day_starting_time": "07:00",
+  "day_ending_time": "19:00",
+  "day_length": 12,
+  "day_slot_time": "30",
+  "max_students_per_teacher": 1,
+  "fulltime_available_teachers": 1000,
+  "parttime_available_teachers": 1000
+}

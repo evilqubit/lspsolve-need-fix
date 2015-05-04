@@ -1,0 +1,504 @@
+{
+  "Days": [
+    {
+      "Slots": [
+        {
+          "FullTime": 1,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 3,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 1,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 5,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 1,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 7,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 3,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 1,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 5,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 4,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 8,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 6,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 3,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 1,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 4,
+          "PartTime": 1
+        },
+        {
+          "FullTime": 5,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 9,
+          "PartTime": 0
+        }
+      ]
+    },
+    {
+      "Slots": [
+        {
+          "FullTime": 1,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 15,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 19,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 22,
+          "PartTime": 10
+        },
+        {
+          "FullTime": 38,
+          "PartTime": 16
+        },
+        {
+          "FullTime": 42,
+          "PartTime": 16
+        },
+        {
+          "FullTime": 40,
+          "PartTime": 16
+        },
+        {
+          "FullTime": 40,
+          "PartTime": 16
+        },
+        {
+          "FullTime": 39,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 35,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 35,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 30,
+          "PartTime": 6
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 27,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 25,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 23,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 22,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 20,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 2
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 10,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 9,
+          "PartTime": 0
+        }
+      ]
+    },
+    {
+      "Slots": [
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 2,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 46,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 32,
+          "PartTime": 8
+        },
+        {
+          "FullTime": 38,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 40,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 40,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 40,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 39,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 35,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 35,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 30,
+          "PartTime": 3
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 27,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 25,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 23,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 22,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 20,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 10,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 9,
+          "PartTime": 0
+        }
+      ]
+    },
+    {
+      "Slots": [
+        {
+          "FullTime": 11,
+          "PartTime": 4
+        },
+        {
+          "FullTime": 14,
+          "PartTime": 4
+        },
+        {
+          "FullTime": 16,
+          "PartTime": 4
+        },
+        {
+          "FullTime": 20,
+          "PartTime": 4
+        },
+        {
+          "FullTime": 23,
+          "PartTime": 9
+        },
+        {
+          "FullTime": 38,
+          "PartTime": 15
+        },
+        {
+          "FullTime": 41,
+          "PartTime": 15
+        },
+        {
+          "FullTime": 40,
+          "PartTime": 15
+        },
+        {
+          "FullTime": 40,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 39,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 35,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 35,
+          "PartTime": 11
+        },
+        {
+          "FullTime": 30,
+          "PartTime": 6
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 3
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 3
+        },
+        {
+          "FullTime": 27,
+          "PartTime": 3
+        },
+        {
+          "FullTime": 25,
+          "PartTime": 12
+        },
+        {
+          "FullTime": 23,
+          "PartTime": 12
+        },
+        {
+          "FullTime": 22,
+          "PartTime": 12
+        },
+        {
+          "FullTime": 20,
+          "PartTime": 12
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 12
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 9
+        },
+        {
+          "FullTime": 10,
+          "PartTime": 9
+        },
+        {
+          "FullTime": 9,
+          "PartTime": 9
+        }
+      ]
+    },
+    {
+      "Slots": [
+        {
+          "FullTime": 12,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 12,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 23,
+          "PartTime": 7
+        },
+        {
+          "FullTime": 21,
+          "PartTime": 7
+        },
+        {
+          "FullTime": 45,
+          "PartTime": 13
+        },
+        {
+          "FullTime": 36,
+          "PartTime": 13
+        },
+        {
+          "FullTime": 46,
+          "PartTime": 13
+        },
+        {
+          "FullTime": 41,
+          "PartTime": 13
+        },
+        {
+          "FullTime": 43,
+          "PartTime": 13
+        },
+        {
+          "FullTime": 43,
+          "PartTime": 13
+        },
+        {
+          "FullTime": 34,
+          "PartTime": 6
+        },
+        {
+          "FullTime": 34,
+          "PartTime": 6
+        },
+        {
+          "FullTime": 29,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 29,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 28,
+          "PartTime": 0
+        },
+        {
+          "FullTime": 21,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 21,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 19,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 19,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 13,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 9,
+          "PartTime": 5
+        },
+        {
+          "FullTime": 9,
+          "PartTime": 5
+        }
+      ]
+    }
+  ]
+}
